@@ -49,8 +49,8 @@ Setup and Running Instructions
 
     Ensure your `requirements.txt` file includes the following:
 
-    `Flask==2.2.2
-    SQLAlchemy==1.4.46`
+    `Flask==3.1.0
+    SQLAlchemy==2.0.16`
 
     Then run:
 
